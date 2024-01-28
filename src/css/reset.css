@@ -1,0 +1,15 @@
+*{
+    margin: 0; /* Espaçamentos externo nos elementos */
+    padding: 0; /* Espaçamentos interno nos elementos = distância entre o conteúdo e a borda do elemento.*/
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none; /*Estilo da lista = nenhum */
+}
+
+a{
+    text-decoration: none; /* Decoração do texto = nenhum = sem estilo*/
+    color: inherit; /* inherit: herdar as cores que a gente colocar no CSS. */
+    
+}
